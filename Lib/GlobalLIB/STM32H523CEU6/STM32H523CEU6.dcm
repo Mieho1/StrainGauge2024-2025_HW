@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32H523CEU6
+D ARM Microcontrollers - MCU High-performance Arm Cortex-M33 MCU 512-Kbyte Flash 272-Kbyte RAM 250 MHz CPU
+K
+F https://www.arrow.com/en/products/stm32h523ceu6/stmicroelectronics?region=nac
+$ENDCMP
+#
+#End Doc Library

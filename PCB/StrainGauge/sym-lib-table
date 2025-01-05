@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Symbols")(type "KiCad")(uri "C:/Users/mieho/Hardware/StrainGauge2024-2025_HW/Lib/Symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "StrainGaugeSYM")(type "KiCad")(uri "C:/Users/mieho/Hardware/StrainGauge2024-2025_HW/Lib/StrainGaugeSYM.kicad_sym")(options "")(descr ""))
+)
